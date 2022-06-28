@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/firebase_auth/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

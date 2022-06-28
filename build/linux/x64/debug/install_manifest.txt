@@ -1,0 +1,11 @@
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/user
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/lib/assets/burger.png
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/bliss/Documents/projects/foodorder/user/build/linux/x64/debug/bundle/data/flutter_assets/version.json

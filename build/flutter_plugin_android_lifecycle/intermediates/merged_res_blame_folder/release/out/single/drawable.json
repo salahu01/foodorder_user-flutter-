@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/67aedebeafb39cc53db31c0bc10af3df/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    }
+]

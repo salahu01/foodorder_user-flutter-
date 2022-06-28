@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/google_sign_in_android/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/61a511d139e7b7debb5e5c781e0cbc3a/transformed/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/google_sign_in_android/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/61a511d139e7b7debb5e5c781e0cbc3a/transformed/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/bliss/Documents/projects/foodorder/user/build/google_sign_in_android/intermediates/merged_res/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/bliss/.gradle/caches/transforms-3/61a511d139e7b7debb5e5c781e0cbc3a/transformed/jetified-play-services-auth-20.0.1/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]
